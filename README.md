@@ -2,8 +2,10 @@ Signup & Sign-in Flow API (FastAPI)
 
  A secure authentication REST API built with FastAPI, implementing user signup and login using password hashing and JWT authentication.
  Clean code, Secure auth
+ 
 
 Highlights
+
 
  Signup & Sign-in APIs
  
@@ -17,7 +19,9 @@ Highlights
 
  Auto-generated Swagger docs
 
+
 Tech Stack
+
 
 Python
 
